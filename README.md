@@ -81,5 +81,7 @@ Teknologi yang Digunakan
 Python: Bahasa pemrograman utama untuk analisis data.
 
 VS Code: IDE yang digunakan untuk menulis dan menjalankan kode.
+
 Pandas: Untuk manipulasi dan analisis data.
+
 Matplotlib & Seaborn: Untuk visualisasi data.

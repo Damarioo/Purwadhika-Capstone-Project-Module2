@@ -12,13 +12,19 @@ Lecturer: Andi Setianto
 
 Case Study: New York City TLC Trip Record
 
+
 NYC Taxi Trip Data Analysis
 
+
 Deskripsi Proyek
+
+
 Proyek ini melakukan analisis mendalam terhadap dataset NYC Taxi and Limousine Commission (TLC) Trip Records, yang menyajikan data perjalanan taksi di New York City. Dataset ini mencakup berbagai informasi penting tentang setiap perjalanan, seperti waktu penjemputan dan pengantaran, lokasi, jumlah penumpang, jarak tempuh, total tarif, dan metode pembayaran. Melalui analisis ini, kami bertujuan untuk memberikan wawasan bagi pemangku kepentingan guna mendukung keputusan yang lebih baik terkait kebijakan transportasi dan layanan taksi di NYC.
 
 
 Tujuan Analisis
+
+
 Analisis ini bertujuan untuk:
 - Menyediakan wawasan yang relevan bagi pemangku kepentingan di sektor transportasi, terutama mengenai pola penggunaan taksi di NYC.
 - Mengidentifikasi area perbaikan dalam layanan taksi untuk meningkatkan kualitas dan memenuhi kebutuhan pengguna.
@@ -26,6 +32,7 @@ Analisis ini bertujuan untuk:
 
 
 Dataset
+
 
 Dataset yang digunakan dalam analisis ini berisi kolom-kolom berikut:
 
@@ -69,6 +76,7 @@ congestion_surcharge: Biaya kemacetan
 
 
 Teknologi yang Digunakan
+
 
 Python: Bahasa pemrograman utama untuk analisis data.
 
